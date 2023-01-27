@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pilla Dipesh</h1>
 
-<h1 align="center">**`Developer(Mobile Application)`**</h1>
+<h1 align="center">{**`Developer(Mobile Application)`**}</h1>
 <h3 align="center">I'm an Indie full-stack developer building my version of digital world one step at a time. All coding project is made up from ground up, from planning and designing all the way to solving real-life problem with code.</h3>
 
 - 🔭 I’m currently working on **Emids Technology**
