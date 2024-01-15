@@ -3,8 +3,6 @@
 <h3 align="center"> I am a seasoned Frontend Developer with a strong focus on web and mobile development. My expertise lies in crafting seamless user experiences using technologies such as Next.js, React, Tailwind CSS, React Native, HTML, and CSS. I have a proven track record of contributing to mobile app projects in the health and finance sectors, including a trading app. What sets me apart is my curious and creative mindset, always exploring innovative approaches to problem-solving. I thrive on embracing unconventional methods to achieve efficiency. Let’s bring your digital vision to life!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilladipesh33&label=Profile%20views&color=0e75b6&style=flat" alt="pilladipesh33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pilladipesh33&theme=darkhub" alt="pilladipesh33" /></a> </p>
-
 - 🔭 I’m currently working on [VSCode Clone](https://github.com/pilladipesh33/codeecho.git)
 - 👯 I’m looking to collaborate on [VSCode ](https://github.com/microsoft/vscode)
 - 🌱 I’m currently learning **NextJS, Tailwind CSS and Typescript**
