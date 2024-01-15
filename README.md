@@ -52,7 +52,7 @@
 <a href="https://github.com/pilladipesh33">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilladipesh33&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pilladipesh33&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pilladipesh33&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pilladipesh33&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pilladipesh33&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pilladipesh33&theme=github_dark" height="180em" />
 </div>
